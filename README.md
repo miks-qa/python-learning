@@ -4,7 +4,7 @@ My Python learning journey as I work through Python for Everybody and build smal
 
 ## Goals 🎯
 - Learn Python fundamentals
-- Understand how code works
+- Understand the concept behind the code
 - Build small projects
 - Develop programming skills for QA automation
 
