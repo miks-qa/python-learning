@@ -9,4 +9,4 @@ My Python learning journey as I work through Python for Everybody and build smal
 - Develop programming skills for QA automation
 
 ## Resources
-[PY4E - Python for Everybody](https://www.py4e.com/)
+- [PY4E - Python for Everybody](https://www.py4e.com/)
