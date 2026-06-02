@@ -17,9 +17,9 @@ Since programs are usually long, it is better to write a sequence of statements 
 
 ### Program Steps or Program Flow
 A program is a sequence of steps executed in order. Some steps are sequential, conditional, or repeated depending on the logic.
-![Sequential Steps](../images/chapter-01/sequential-steps.png)
-![Conditional Steps](../images/chapter-01/conditional-steps.png)
-![Repeated Steps](../images/chapter-01/repeated-steps.png)
+![Sequential Steps](../images/sequential-steps.png)
+![Conditional Steps](../images/conditional-steps.png)
+![Repeated Steps](../images/repeated-steps.png)
 
 ### Important Learnings :bulb:
 - Python executes instructions one line at a time, from top to bottom.
