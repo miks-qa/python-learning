@@ -12,6 +12,7 @@ My Python learning journey as I work through Python for Everybody and build smal
 ```
 python-learning/
 ├── chapter-01/
+├── .gitignore
 └── README.md
 ```
 
