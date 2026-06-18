@@ -1,4 +1,4 @@
-#Exercise 2.2: User input
+#This program prompts the user to enter their name and then greets them with a personalized message.
 
-name = input("Enter your name: ")
-print("Hello, ", name)
+name = input("Enter your name:")
+print("Hello,", name)
