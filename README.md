@@ -15,6 +15,7 @@ My Python learning journey as I work through Python for Everybody and build smal
 python-learning/
 ├── chapter 01/
 ├── chapter 02/
+├── chapter 03/
 ├── .gitignore
 └── README.md
 ```
@@ -22,13 +23,20 @@ python-learning/
 ## Hands-on Practice :computer:
 
 ### Chapter 01
+*Introduction to Python and program execution*
 - [First Python program: Hello World](<chapter 01/exercises/first.py>)
 - [Sequential Steps](<chapter 01/exercises/sequential-steps.py>)
 - [Conditional Steps](<chapter 01/exercises/conditional-steps.py>)
 - [Repeated Steps](<chapter 01/exercises/repeated-steps.py>)
 
 ### Chapter 02
+*User input, type conversion, and arithmetic operations*
 - [Temperature Converter (Celsius to Kelvin and Fahrenheit)](<chapter 02/exercises/user-input-conversion.py>)
+
+### Chapter 03
+*Conditionals, decision structures, and error handling*
+- [Age Checker](<chapter 03/exercises/age-checker.py>)
+- [Login Simulation](<chapter 03/exercises/login-simulation.py>)
 
 ## Resources :books:
 - *[PY4E - Python for Everybody](https://www.py4e.com/)*
