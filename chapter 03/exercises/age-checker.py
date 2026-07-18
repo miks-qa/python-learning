@@ -7,9 +7,7 @@ try:
         print("Age cannot be zero or negative. Please enter a valid age.")
     elif age < 18:
         print("You are a minor.")
-    elif age >= 18:
-        print("You are an adult.")
     else:
-        print("Invalid age entered.")
+        print("You are an adult.")
 except:
     print("Invalid input. Please enter a whole number.")
