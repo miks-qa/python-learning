@@ -16,6 +16,7 @@ python-learning/
 ├── chapter 01/
 ├── chapter 02/
 ├── chapter 03/
+├── chapter 04/
 ├── .gitignore
 └── README.md
 ```
@@ -37,6 +38,11 @@ python-learning/
 *Conditionals, decision structures, and error handling*
 - [Age Checker](<chapter 03/exercises/age-checker.py>)
 - [Login Simulation](<chapter 03/exercises/login-simulation.py>)
+
+### Chapter 04
+*Functions, parameters, arguments, and return values*
+- [Simple Calculator](<chapter 04/exercises/simple-calculator.py>)
+- [Age Calculator](<chapter 04/exercises/age-calculator.py>)
 
 ## Resources :books:
 - *[PY4E - Python for Everybody](https://www.py4e.com/)*
