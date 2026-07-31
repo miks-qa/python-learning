@@ -42,7 +42,7 @@ Outside of the official lesson, I also:
 
 - created an age calculator with validation and error handling
 
-:memo: [View Age Calculator](../exercises/age-calculator.py)
+:birthday: [View Age Calculator](../exercises/age-calculator.py)
 
 These exercises helped me understand how functions can be applied beyond the chapter examples and how different Python concepts can work together to create more structured programs.
 
